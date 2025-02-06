@@ -1,3 +1,4 @@
 fun main() {
-    println("Hello World!")
+    val result = Raindrops.convert(28)
+    println(result)
 }
