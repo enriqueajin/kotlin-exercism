@@ -1,4 +1,4 @@
 fun main() {
-    val result = Raindrops.convert(28)
+    val result = ReverseString.reverse("Fantastical")
     println(result)
 }
